@@ -93,7 +93,7 @@ Wenn Sie ein Modell mit Daten trainieren, verwenden Sie ein bekanntes Dataset un
 Wenn Sie ein Betrugserkennungsmodell in einem überwachten Lernprozess trainieren, verwenden Sie einen Satz Transaktionen, die entweder als betrügerisch oder als gültig bezeichnet sind. Sie teilen Ihr Dataset nach dem Zufallsprinzip und verwenden einen Teil zum Trainieren und einen Teil zum Testen oder Auswerten des Modells.
 
 #### <a name="evaluation-data"></a>Auswertungsdaten
-Nachdem Sie das Modell trainiert haben, werden Sie es mithilfe der verbleibenden Testdaten aus. Hierzu verwenden Sie Daten, deren Ergebnisse Sie bereits kennen, um herauszufinden, ob die Vorhersage Ihres Modells genau ist.
+Nachdem Sie das Modell trainiert haben, werten Sie es mithilfe der verbleibenden Testdaten aus. Hierzu verwenden Sie Daten, deren Ergebnisse Sie bereits kennen, um herauszufinden, ob die Vorhersage Ihres Modells genau ist.
 
 ## <a name="other-common-machine-learning-terms"></a>Weitere gängige Begriffe des maschinellen Lernens
 * **Algorithmus**: Ein eigenständiger Regelsatz, der zum Lösen von Problemen mithilfe von Datenverarbeitung, mathematischen Berechnungen oder automatisierter Argumentation verwendet wird.
